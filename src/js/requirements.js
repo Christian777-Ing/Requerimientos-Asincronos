@@ -23,3 +23,5 @@ const getSalesCoffee = async (url) => {
         };
     }
 };
+
+export{getSalesCoffee};
